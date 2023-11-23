@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535842620776",
+    "project_id": "android-cesar",
+    "storage_bucket": "android-cesar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535842620776:android:b46914b68f04b813af42dd",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXzXQP_wdv7Lxq6Bj1w-mksnrt2QyDbYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
